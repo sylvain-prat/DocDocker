@@ -10,7 +10,7 @@
 Afin de pouvoir utiliser notre image sur une autre machine, nous devons commencer par l'exporter sous forme d'un fichier tar. Pour cela deux commandes s'offrent à nous :   
 </p>
 
-- export
+- [export](https://docs.docker.com/engine/reference/commandline/export/)
 - save
 
 <p style='text-align: justify'>
