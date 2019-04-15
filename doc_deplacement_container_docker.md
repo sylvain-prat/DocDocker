@@ -5,6 +5,8 @@
 
 # Transferer une image docker sans passer par Docker Hub
 
+---
+
 ### 1 - Exporter vers un fichier tar
 <p style='text-align: justify'>
 Afin de pouvoir utiliser notre image sur une autre machine, nous devons commencer par l'exporter sous forme d'un fichier tar. Pour cela deux commandes s'offrent à nous :   
