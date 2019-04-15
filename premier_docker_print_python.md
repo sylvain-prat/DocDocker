@@ -18,7 +18,7 @@ print("Hello World !")
 #### 1.2 - Ajout d'une image déjà existante
 
 <p style='text-align: justify'>
-Pour fonctionner notre programme nécessite la version 2.7 de python. Sur <a href="https://hub.docker.com/">DockerHub</a> [python](https://hub.docker.com/_/python) nous propose des images pré-construite pour nous faciliter la tâche. Pour ce programme j'ai choisi l'image python:2.7-slim car c'est la version de python qu'il nous faut et il est en version slim donc moins lourd.
+Pour fonctionner notre programme nécessite la version 2.7 de python. Sur <a href="https://hub.docker.com/">DockerHub</a> <a href ="https://hub.docker.com/_/python">python</a> nous propose des images pré-construite pour nous faciliter la tâche. Pour ce programme j'ai choisi l'image python:2.7-slim car c'est la version de python qu'il nous faut et il est en version slim donc moins lourd.
 </p>
 
 Dockerfile:
