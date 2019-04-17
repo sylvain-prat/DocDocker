@@ -12,6 +12,6 @@ Blablabla
 
 
 ---
-###### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Exemple/premier_docker_print_python.md">Sommaire</a>
+###### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/README.md">Sommaire</a>
 ---
 ###### Sylvain PRAT
