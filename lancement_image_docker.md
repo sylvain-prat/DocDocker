@@ -17,12 +17,13 @@ Vu que notre programme docker s'exécute dans un container, il est totalement is
 
 ---
 
-- Input clavier via le terminal
-- Eviter la création de multiple container
--  <a href='#IG'>Interface Graphique</a>
+- <a href='#ICT'>Input clavier via le terminal</a>
+- <a href='#ECMC'>Eviter la création de multiple container</a>
+- <a href='#IG'>Interface Graphique</a>
+- <a href='#DS'>Diffuser du son</a>
 
 ---
-###  Input clavier via le terminal
+###  Input clavier via le terminal <div id="ICT"></div>
 
 ##### -t
 
@@ -40,7 +41,7 @@ Keep STDIN open even if not attached
 docker run -ti $nom_image
 ```
 
-### Eviter la création de multiple container
+### Eviter la création de multiple container <div id="ECMC"></div>
 
 <p style='text-align: justify'>
 A chaque exécution de la commande <a href="https://docs.docker.com/engine/reference/commandline/run/">run</a>, le système crée un nouveau container. Avec l'option --rm à chaque exécution de la commande <a href="https://docs.docker.com/engine/reference/commandline/run/">run</a>, le système va suprimmer l'ancien container et en créer un nouveau.
@@ -56,7 +57,7 @@ Automatically remove the container when it exits
 docker run --rm $nom_image
 ```
 
-###  Interface Graphique
+###  Interface Graphique <div id="IG"></div>
 <p style='text-align: justify'>
 Afin de pouvoir afficher un interface graphique à l'écran, nous devons spécifier au container où doit-il afficher l'interface. Pour cela on doit modifier la variable d'environnement DISPLAY. Il faut également un système de fenêtrage X comme <a href="https://fr.wikipedia.org/wiki/Xming">Xming</a>.
 </p>
@@ -74,7 +75,9 @@ Lancer grâce à XLaunch un Xming Server
 docker run -e DISPLAY=YOUR_IP:0.0 $nom_image
 ```
 
-#### Linux <div id="IG"></div>
+#### Linux
+
+###  Diffuser du son <div id="DS"></div>
 
 ---
 ### Documentation des commandes utilisés
