@@ -11,7 +11,7 @@ A chaque exécution de la commande <a href="https://docs.docker.com/engine/refer
 
 ##### --rm
 
-<p style='text-align: justify'>M
+<p style='text-align: justify'>
 Automatically remove the container when it exits
 </p>
 
