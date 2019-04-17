@@ -19,10 +19,10 @@ Vu que notre programme docker s'exécute dans un container, il est totalement is
 
 ## Sommaire
 
-#### <a href='https://github.com/sylvain-prat/DocDocker/blob/master/Lancer_une_image_docker/Input_clavier_via_terminal.md'>Input clavier via le terminal</a>
-#### <a href='https://github.com/sylvain-prat/DocDocker/blob/master/Lancer_une_image_docker/Eviter_Creation_Multiple_Container.md'>Eviter la création de multiple container</a>
-#### <a href='https://github.com/sylvain-prat/DocDocker/blob/master/Lancer_une_image_docker/Interface_Graphique.md'>Interface Graphique</a>
-#### <a href='https://github.com/sylvain-prat/DocDocker/blob/master/Lancer_une_image_docker/Diffuser_du_son.md'>Diffuser du son</a>
+- #### <a href='https://github.com/sylvain-prat/DocDocker/blob/master/Lancer_une_image_docker/Input_clavier_via_terminal.md'>Input clavier via le terminal</a>
+- #### <a href='https://github.com/sylvain-prat/DocDocker/blob/master/Lancer_une_image_docker/Eviter_Creation_Multiple_Container.md'>Eviter la création de multiple container</a>
+- #### <a href='https://github.com/sylvain-prat/DocDocker/blob/master/Lancer_une_image_docker/Interface_Graphique.md'>Interface Graphique</a>
+- #### <a href='https://github.com/sylvain-prat/DocDocker/blob/master/Lancer_une_image_docker/Diffuser_du_son.md'>Diffuser du son</a>
 
 ---
 ### Documentation des commandes utilisés

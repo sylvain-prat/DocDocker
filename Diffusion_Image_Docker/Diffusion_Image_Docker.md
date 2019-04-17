@@ -9,9 +9,9 @@
 Maintenant que vous avez créé votre image, il ne vous manque plus qu'à la diffuser pour qu'elle puisse être utilisé par d'autre utilisateur. Deux choix s'offre à vous avec ou sans DockerHub.
 </p>
 
-### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Diffusion_Image_Docker/avec_DockerHub.md">avec DockerHub</a>
+- ### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Diffusion_Image_Docker/avec_DockerHub.md">avec DockerHub</a>
 
-### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Diffusion_Image_Docker/sans_DockerHub.md">sans DockerHub</a>
+- ### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Diffusion_Image_Docker/sans_DockerHub.md">sans DockerHub</a>
 
 
 ---
