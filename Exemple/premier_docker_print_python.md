@@ -18,7 +18,7 @@ print("Hello World !")
 #### 1.2 - Ajout d'une image déjà existante
 
 <p style='text-align: justify'>
-Pour fonctionner notre programme nécessite la version 2.7 de python. Sur <a href="https://hub.docker.com/">DockerHub</a> <a href ="https://hub.docker.com/_/python">python</a> nous propose des images pré-construite pour nous faciliter la tâche. Pour ce programme j'ai choisi l'image python:2.7-slim car c'est la version de python qu'il nous faut et il est en version slim donc moins lourd.
+Pour fonctionner, notre programme nécessite la version 2.7 de python. Sur <a href="https://hub.docker.com/">DockerHub</a>, <a href ="https://hub.docker.com/_/python">python</a> nous propose des images pré-construite pour nous faciliter la tâche. Pour ce programme j'ai choisi l'image python:2.7-slim car c'est la version de python qu'il nous faut et il est en version slim donc moins lourd.
 </p>
 
 Dockerfile:
@@ -47,7 +47,7 @@ ADD main.py /
 
 #### 1.5 - Ajout de CMD
 <p style='text-align: justify'>
-Nous devons maintenant indiquer à notre Dockerfile que faire lorsqu'il sera exécuté. Dans notre cas nous souhaitons exécuter :
+Nous devons maintenant indiquer à notre Dockerfile quoi faire lorsqu'il sera exécuté. Dans notre cas nous souhaitons exécuter :
 </p>
 
 ``` shell
@@ -72,7 +72,7 @@ docker build -t imageprintpython .
 
   Avec cette commande on crée une image docker se nommant imageprintpython à partir du Dockerfile créé précédemment.
 
-On peut vérifier qu'il a bien été créé grâce à cette commande :
+On peut vérifier qu'elle a bien été créée grâce à cette commande :
 
 
 ``` shell
@@ -89,7 +89,7 @@ docker run imageprintpython
 
 
 ---
-### Documentation des commandes utilisés
+### Documentation des commandes utilisées
 
 <a href="https://docs.docker.com/engine/reference/commandline/images/">Images</a><br>
 <a href="https://docs.docker.com/engine/reference/commandline/build/">Build</a><br>

@@ -4,7 +4,7 @@
 ***
 # Exécution d'une image docker
 <p style='text-align: justify'>
-Une fois l'image Docker créé, il ne nous reste plus qu'à l'exécuter pour lancer son contenu. Pour exécuter un image docker, il suffit d'utiliser la commande <a href="https://docs.docker.com/engine/reference/commandline/run/">run</a>. Après exécution de la commande <a href="https://docs.docker.com/engine/reference/commandline/run/">run</a>, le système va créer un container basé sur l'image passé en paramètre de la commande.
+Une fois l'image Docker créée, il ne nous reste plus qu'à l'exécuter pour lancer son contenu. Pour exécuter une image docker, il suffit d'utiliser la commande <a href="https://docs.docker.com/engine/reference/commandline/run/">run</a>. Après exécution de la commande <a href="https://docs.docker.com/engine/reference/commandline/run/">run</a>, le système va créer un container basé sur l'image passée en paramètre de la commande.
 </p>
 
 ``` shell
@@ -25,7 +25,7 @@ Vu que notre programme docker s'exécute dans un container, il est totalement is
 - #### <a href='https://github.com/sylvain-prat/DocDocker/blob/master/Lancer_une_image_docker/Diffuser_du_son.md'>Diffuser du son</a>
 
 ---
-### Documentation des commandes utilisés
+### Documentation des commandes utilisées
 
 <a href="https://docs.docker.com/engine/reference/commandline/run/">Run</a>
 

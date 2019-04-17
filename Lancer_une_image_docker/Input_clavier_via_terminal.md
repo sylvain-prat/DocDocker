@@ -6,7 +6,7 @@
 ###  Input clavier via le terminal
 
 <p style='text-align: justify'>
-Pour permettre une interaction entre l'utilisateur et le programme via un terminal, il est nécessaire de rajouter les option -ti.
+Pour permettre une interaction entre l'utilisateur et le programme via un terminal, il est nécessaire de rajouter les options -ti.
 </p>
 
 ##### -t
@@ -27,7 +27,7 @@ docker run -ti $nom_image
 
 
 ---
-### Documentation des commandes utilisés
+### Documentation des commandes utilisées
 
 <a href="https://docs.docker.com/engine/reference/commandline/run/">Run</a>
 
