@@ -5,6 +5,10 @@
 
 ###  Input clavier via le terminal
 
+<p style='text-align: justify'>
+Pour permettre une interaction entre l'utilisateur et le programme via un terminal, il est nécessaire de rajouter les option -ti.
+</p>
+
 ##### -t
 
 <p style='text-align: justify'>
