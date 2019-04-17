@@ -3,7 +3,7 @@
 
 ***
 
-# Transferer une image docker sans passer par Docker Hub
+# Transférer une image docker sans passer par Docker Hub
 
 ### 1 - Exporter vers un fichier tar
 <p style='text-align: justify'>
@@ -69,7 +69,7 @@ Je vous conseille donc d'utiliser la commande load pour éviter d'avoir à rajou
 
 
 ---
-### Documentation des commandes utilisés
+### Documentation des commandes utilisées
 
 <a href="https://docs.docker.com/engine/reference/commandline/images/"> Images</a><br>
 <a href="https://docs.docker.com/engine/reference/commandline/ps/"> Ps</a>

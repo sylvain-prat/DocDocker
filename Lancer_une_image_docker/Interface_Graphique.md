@@ -5,7 +5,7 @@
 
 ###  Interface Graphique
 <p style='text-align: justify'>
-Afin de pouvoir afficher un interface graphique à l'écran, nous devons spécifier au container où doit-il afficher l'interface. Pour cela on doit modifier la variable d'environnement DISPLAY. Il faut également un système de fenêtrage X comme <a href="https://fr.wikipedia.org/wiki/Xming">Xming</a>.
+Afin de pouvoir afficher une interface graphique à l'écran, nous devons spécifier au container où il doit afficher l'interface. Pour cela on doit modifier la variable d'environnement DISPLAY. Il faut également un système de fenêtrage X comme <a href="https://fr.wikipedia.org/wiki/Xming">Xming</a>.
 </p>
 
 #### Windows
@@ -27,7 +27,7 @@ docker run -e DISPLAY=YOUR_IP:0.0 $nom_image
 
 
 ---
-### Documentation des commandes utilisés
+### Documentation des commandes utilisées
 
 <a href="https://docs.docker.com/engine/reference/commandline/run/">Run</a>
 

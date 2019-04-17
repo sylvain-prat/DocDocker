@@ -6,7 +6,7 @@
 #  Diffuser une image Docker grâce à DockerHub
 
 <p style='text-align: justify'>
-DockerHub est une plateforme de partage d'image mise en place par Docker.
+DockerHub est une plateforme de partage d'images mise en place par Docker.
 </p>
 
 ## Publier une image
@@ -77,7 +77,7 @@ Habituellement, l'adresse d'une image sur DockerHub se présente sous la forme :
 ```
 
 ---
-### Documentation des commandes utilisés
+### Documentation des commandes utilisées
 
 
 <a href="https://docs.docker.com/engine/reference/commandline/commit/">Commit</a><br>
