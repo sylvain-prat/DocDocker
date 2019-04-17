@@ -14,6 +14,8 @@ Blablabla
 
 ### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Lancer_une_image_docker/lancement_image_docker.md">Lancer une image docker</a>
 
+### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Exemple/Exemple.md">Diffuser une image Docker</a>
+
 ### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Exemple/Exemple.md">Exemple</a>
 
 
