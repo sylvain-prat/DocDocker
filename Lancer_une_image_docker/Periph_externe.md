@@ -1,6 +1,4 @@
-<img style="height: 60px; float: left" src="http://www.lpl-aix.fr/wp-content/uploads/2018/04/LPL_240_180.jpg" />
-<img style="height: 60px; float: right" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" />
-
+<img style="height: 60px" src="http://www.lpl-aix.fr/wp-content/uploads/2018/04/LPL_240_180.jpg" />
 
 5 Avenue Pasteur, 13100 Aix-en-Provence
 
