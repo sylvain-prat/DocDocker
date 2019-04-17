@@ -3,7 +3,7 @@
 
 ***
 
-# Diffusion image Docker
+# Diffuser une image Docker
 
 <p style='text-align: justify'>
 Maintenant que vous avez créé votre image, il ne vous manque plus qu'à la diffuser pour qu'elle puisse être utilisé par d'autre utilisateur. Deux choix s'offre à vous avec ou sans DockerHub.
