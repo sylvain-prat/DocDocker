@@ -81,9 +81,14 @@ docker run -e DISPLAY=YOUR_IP:0.0 $nom_image
 
 #### Linux
 
+<div style='color: orange'>Work in progress</div>
+
+
  <div id="DS"></div>
 
 ###  Diffuser du son
+
+<div style='color: orange'>Work in progress</div>
 
 ---
 ### Documentation des commandes utilisés
