@@ -28,11 +28,6 @@ Permet d'importer une image déjà existante. Sur le site <a href="https://hub.d
 
 
 
----
-### Documentation des commandes utilisées
-
-<a href="https://docs.docker.com/engine/reference/commandline/build/">Build</a><br>
-<a href="https://docs.docker.com/engine/reference/commandline/images/">Images</a><br>
 
 ---
 ###### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/README.md">Sommaire</a>
