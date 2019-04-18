@@ -5,7 +5,9 @@
 
 # Dockerfile
 
+<p style='text-align: justify'>
 Pour pouvoir créer un container docker, il faut commencer par créer une image. Pour cela il faut créer un Dockerfile qui va décrire au système comment créer l'image docker.
+</p>
 
 - ### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Dockerfile/Creation_Dockerfile.md">Création du Dockerfile</a>
 
