@@ -3,7 +3,7 @@
 
 ***
 
-### Eviter la création de multiple container
+# Eviter la création de multiple container
 
 <p style='text-align: justify'>
 A chaque exécution de la commande <a href="https://docs.docker.com/engine/reference/commandline/run/">run</a>, le système crée un nouveau container. Avec l'option --rm à chaque exécution de la commande <a href="https://docs.docker.com/engine/reference/commandline/run/">run</a>, le système va supprimer l'ancien container et en créer un nouveau.

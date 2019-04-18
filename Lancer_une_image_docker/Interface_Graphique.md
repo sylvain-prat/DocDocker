@@ -3,7 +3,7 @@
 
 ***
 
-###  Interface Graphique
+#  Interface Graphique
 <p style='text-align: justify'>
 Afin de pouvoir afficher une interface graphique à l'écran, nous devons spécifier au container où il doit afficher l'interface. Pour cela on doit modifier la variable d'environnement DISPLAY. Il faut également un système de fenêtrage X comme <a href="https://fr.wikipedia.org/wiki/Xming">Xming</a>.
 </p>

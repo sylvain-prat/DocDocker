@@ -5,7 +5,7 @@
 
 ***
 
-###  Utilisation d'un périphérique externe
+#  Utilisation d'un périphérique externe
 
 <div style='color: orange'>Work in progress</div>
 
