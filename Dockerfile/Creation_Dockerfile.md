@@ -5,7 +5,7 @@
 
 # Créer un Dockerfile
 
-#### FROM
+### FROM
 <p style='text-align: justify'>
 Permet d'importer une image déjà existante. Sur le site <a href="https://hub.docker.com/">DockerHub</a>, il existe une multitude d'image docker publié par la communauté et même des images officielles. Par exemple Python, Microsoft, Oracle publient leurs propres images pour faciliter le développement docker.
 </p>
@@ -14,7 +14,7 @@ Permet d'importer une image déjà existante. Sur le site <a href="https://hub.d
   FROM $adresse_image
 ```
 
-#### RUN
+### RUN
 
 <p style='text-align: justify'>
 Si votre programme nécessite des installations de package, il suffit de mettre la commande pour les installer juste après RUN.
@@ -25,7 +25,7 @@ Si votre programme nécessite des installations de package, il suffit de mettre 
   RUN $commande
 ```
 
-#### ADD/COPY
+### ADD/COPY
 
 <p style='text-align: justify'>
 Il faut maintenant ajouter tous les fichiers nécessaire au fonctionnement de l'application.
@@ -52,7 +52,7 @@ On peut définir un répertoire de travail pour ADD et COPY dans le container av
   WORKDIR $PATH
 ```
 
-#### CMD
+### CMD
 
 <p style='text-align: justify'>
 CMD permet d'affecter une commande au container qui sera exécuté au moment de la création du container. Il ne peut y avoir qu'une commande pour un container, docker ne prendra donc en compte que le dernier CMD du Dockerfile.
