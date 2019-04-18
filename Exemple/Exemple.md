@@ -5,8 +5,7 @@
 
 # Exemple
 
-Blablabla
-<div style='color: orange'>Work in progress</div>
+Quelque exemple comprenant tous le processus de création et lancement d'un programme dockériser.
 
 
 - ### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Exemple/premier_docker_print_python.md">Simple programme python</a>
