@@ -10,6 +10,8 @@ Quelque exemple comprenant tous le processus de création et lancement d'un prog
 
 - ### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Exemple/premier_docker_print_python.md">Simple programme python</a>
 
+- ### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Exemple/Installeur_firefox.md">Installeur Firefox</a>
+
 
 ---
 ###### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/README.md">Sommaire</a>
