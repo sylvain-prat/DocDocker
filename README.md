@@ -10,6 +10,8 @@ Blablabla
 
 - ### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Explication/QuestcequeDocker.md">Qu'est ce que Docker</a>
 
+- ### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Explication/LimiteDocker.md">Les limites de Docker</a>
+
 ## Sommaire
 
 - ### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Set_up/Installer_Docker.md">Installer Docker</a>
