@@ -5,7 +5,9 @@
 
 # Documentation docker
 
-Blablabla
+<p style='text-align: justify'>
+Documentation Docker réalisé dans le cadre d'un stage en Avril 2019 par Sylvain PRAT. Cette documentation a pour but d'apprendre les bases de Docker.
+</p>
 
 
 - ### <a href="https://github.com/sylvain-prat/DocDocker/blob/master/Explication/QuestcequeDocker.md">Qu'est ce que Docker</a>
